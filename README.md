@@ -1,5 +1,8 @@
 # AI Deception Detection using Eye Tracking & Behavior Analysis (ProtoType)
 
+## ❓ Problem Statement
+Traditional lie detection methods are intrusive and unreliable. This project explores non-invasive behavioral analysis using computer vision to estimate deception probability.
+
 ## 📌 Overview
 
 This project is a real-time computer vision system that analyzes behavioral patterns such as eye blinks and gaze direction to estimate deception probability.
