@@ -1,0 +1,6 @@
+Python
+OpenCV (cv2)
+MediaPipe
+NumPy
+Time (built-in)
+CSV (built-in)
