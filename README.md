@@ -1,4 +1,4 @@
-# AI-Based Multimodal Deception Detection System (Prototype)
+# AI Deception Detection using Eye Tracking & Behavior Analysis (ProtoType)
 
 ## 📌 Overview
 
