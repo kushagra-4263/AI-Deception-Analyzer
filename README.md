@@ -17,6 +17,14 @@ This project is a real-time computer vision system that analyzes behavioral patt
 * Behavioral scoring based on deviation from baseline
 * Result logging to CSV
 
+## ⚙️ System Flow
+1. Capture video input
+2. Detect face landmarks (MediaPipe)
+3. Calculate EAR (blink detection)
+4. Track gaze direction
+5. Compare with baseline behavior
+6. Generate deception score
+
 ## ⚠️ Disclaimer
 
 This is a prototype system and not a scientifically validated lie detector.
